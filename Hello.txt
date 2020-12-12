@@ -1,0 +1,4 @@
+Hello everyone,
+
+this is a test repo for us to practice merging and pushing prior to working on the project work.
+
